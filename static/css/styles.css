@@ -12,3 +12,9 @@
 .footer_message {
     color: #ffffff;
 }
+
+.bg{
+    background-image: url("/static/images/background.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
